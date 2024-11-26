@@ -10,8 +10,6 @@
 
 ## Main Project Data Lead:
 
-## Main Project Data Lead:
-
 - 🔭[Data Engineer Azure Healthcare](https://github.com/oscarnguyen99/HealthCare-Mood-Project) - Azure Cloud with MOOD Metric Ring aim for Autism Kid. 
 - 🔭[Data Engineer Cloud Project at Signify](https://github.com/oscarnguyen99/Signify-DataEngineerProject) - AWS Cloud Data-Engineer Project intern at Signify.
 - 🔭[Data Engineer Sligro Shop](https://github.com/markrichers/Data-Engineer-SligroETL)- ETL Data Engineer Side Project 
