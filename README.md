@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-- 🔭 I’m currently working as Software Engineer Back-End for TomTom Companies. 
+- 🔭 I’m currently working as Software Analyst at Swisslog - Global Company
 - 👯 I’m looking to collaborate on software engineering business project.
 - 🤔 I’m looking for support and help the world AI engineer with Data Visulization in R, Python, and Tableau and SQL. 
 - 📫 How to reach me: nguyenmark140@gmail.com | Linkedin [Mark Nguyen](https://www.linkedin.com/in/mark-nguyen140/)
