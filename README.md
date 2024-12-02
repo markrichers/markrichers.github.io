@@ -33,6 +33,6 @@
 
 ## My adventure: 
 
-![366802366_2427425300754268_4154060746044711982_n](https://github.com/user-attachments/assets/a6e18193-5ace-4828-b634-48f9d452f84c)
+<img src="https://github.com/user-attachments/assets/a6e18193-5ace-4828-b634-48f9d452f84c" alt="Portfolio Image" width="500" height="auto">
 
 
