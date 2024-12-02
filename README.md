@@ -33,6 +33,8 @@
 
 ## My adventure: 
 
+I am a data-driven professional with expertise in transforming business operations through advanced analytics and recommendation systems. I specialize in enterprise data analytic, creating actionable insights to enhance decision-making, customer experience, and organizational growth. Skilled in cross-functional collaboration, I deliver innovative solutions aligned with business objectives.
+
 <img src="https://github.com/user-attachments/assets/a6e18193-5ace-4828-b634-48f9d452f84c" alt="Portfolio Image" width="500" height="auto">
 
 
