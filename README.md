@@ -10,16 +10,16 @@
 
 ## Main Project Data Lead:
 
-- 🔭[Data Engineer Azure Healthcare](https://github.com/oscarnguyen99/HealthCare-Mood-Project) - Azure Cloud with MOOD Metric Ring aim for Autism Kid.
-- 🔭[Data Engineer Cloud Project Signify](https://github.com/oscarnguyen99/Signify-DataEngineerProject) - AWS Cloud Data-Engineer Project Signify.
-- 🔭[Data Engineer Sligro Shop](https://github.com/markrichers/Data-Engineer-SligroETL)- ETL Data Engineer Side Project 
-- 🔭[Data Engineer ETL project](https://github.com/markrichers/Vanderlande-Project) - Work with Pyspark Framework and ETL framework. 
-- 🔭[Data Analytic Sale Project](https://github.com/oscarnguyen99/Fashion-Sale-PowerBi-Analytic) - Analyze Fashion Sale Data Analytic accross Global.
-- 🔭[Data Science GIS project](https://github.com/oscarnguyen99/NewYorkTaxi-DataScienceProject) - Taxi Analysis using algorithm and AI technique.
-- 🔭[Data Science Air Quality Project](https://github.com/oscarnguyen99/ECO-Villages-AI-Project) - International AI project with 3 countries. 
-- 🔭[Data Science Spark Weather Project at Lightyear](https://github.com/markrichers/Weather-Datamodel-Databrick) - Project at World First's Solar Car.
-- 🔭[Data Engineer TomTom Optimization](https://github.com/markrichers/TomTom_Backend_Project) - - Data Modeling and ETL project work + Dashboard.
-- 🔭[Data Analytic Project](https://github.com/markrichers/AnalyticTradeFinance) - Analytic Trade and Finance Personal Project
+- 🔭 Data Engineer Azure Healthcare - Azure Cloud project with MOOD Metric Ring aimed at helping children with autism.
+- 🔭 Data Engineer Cloud Project Signify - AWS Cloud Data Engineering project for Signify.
+- 🔭 Data Engineer Sligro Shop - ETL Data Engineering side project.
+- 🔭 Data Engineer ETL Project - Working with PySpark and ETL frameworks.
+- 🔭 Data Analytics Sales Project - Analyzing global fashion sales data using Power BI.
+- 🔭 Data Science GIS Project - Taxi data analysis using algorithms and AI techniques.
+- 🔭 Data Science Air Quality Project - International AI project spanning three countries.
+- 🔭 Data Science Spark Weather Project at Lightyear - Weather data modeling project for the world’s first solar car.
+- 🔭 Data Engineer TomTom Optimization - Data modeling, ETL development, and dashboard project.
+- 🔭 Data Analytics Project - Trade and finance analytics personal project.
 
 
 <br />
@@ -40,6 +40,9 @@ I am a data-driven professional with expertise in transforming business operatio
 
 ## My substack:
 
-https://substack.com/@nguyenmark140
+## 📢 Connect with Me:  
+📖 [Substack](https://substack.com/@nguyenmark140)  
+🧵 [Threads](https://www.threads.net/@markrichers)  
+📸 [Instagram](https://www.instagram.com/markrichers/)  
 
 
