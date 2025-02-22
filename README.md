@@ -10,20 +10,18 @@
 
 ## Main Project Data Lead:
 
-- 🔭 Data Engineer Azure Healthcare - Azure Cloud project with MOOD Metric Ring aimed at helping children with autism.
-- 🔭 Data Engineer Cloud Project Signify - AWS Cloud Data Engineering project for Signify.
-- 🔭 Data Engineer Sligro Shop - ETL Data Engineering side project.
-- 🔭 Data Engineer ETL Project - Working with PySpark and ETL frameworks.
-- 🔭 Data Analytics Sales Project - Analyzing global fashion sales data using Power BI.
-- 🔭 Data Science GIS Project - Taxi data analysis using algorithms and AI techniques.
-- 🔭 Data Science Air Quality Project - International AI project spanning three countries.
-- 🔭 Data Science Spark Weather Project at Lightyear - Weather data modeling project for the world’s first solar car.
-- 🔭 Data Engineer TomTom Optimization - Data modeling, ETL development, and dashboard project.
-- 🔭 Data Analytics Project - Trade and finance analytics personal project.
-
+- 🔭 [Data Engineer Azure Healthcare](https://github.com/oscarnguyen99/HealthCare-Mood-Project) - Azure Cloud project with MOOD Metric Ring aimed at helping children with autism.  
+- 🔭 [Data Engineer Cloud Project Signify](https://github.com/oscarnguyen99/Signify-DataEngineerProject) - AWS Cloud Data Engineering project for Signify.  
+- 🔭 [Data Engineer Sligro Shop](https://github.com/markrichers/Data-Engineer-SligroETL) - ETL Data Engineering side project.  
+- 🔭 [Data Engineer ETL Project](https://github.com/markrichers/Vanderlande-Project) - Working with PySpark and ETL frameworks.  
+- 🔭 [Data Analytics Sales Project](https://github.com/oscarnguyen99/Fashion-Sale-PowerBi-Analytic) - Analyzing global fashion sales data using Power BI.  
+- 🔭 [Data Science GIS Project](https://github.com/oscarnguyen99/NewYorkTaxi-DataScienceProject) - Taxi data analysis using algorithms and AI techniques.  
+- 🔭 [Data Science Air Quality Project](https://github.com/oscarnguyen99/ECO-Villages-AI-Project) - International AI project spanning three countries.  
+- 🔭 [Data Science Spark Weather Project at Lightyear](https://github.com/markrichers/Weather-Datamodel-Databrick) - Weather data modeling project for the world’s first solar car.  
+- 🔭 [Data Engineer TomTom Optimization](https://github.com/markrichers/TomTom_Backend_Project) - Data modeling, ETL development, and dashboard project.  
+- 🔭 [Data Analytics Project](https://github.com/markrichers/AnalyticTradeFinance) - Trade and finance analytics personal project.  
 
 <br />
-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarkRichers&repo=ECO-Villages-AI-Project&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/ECO-Villages-AI-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarkRichers&repo=Python-Covid19-Project-ML&theme=dark&hide_border=true&bg_color=444444)](https://github.com/MarkRichers/Python-Covid19-Project-ML)
